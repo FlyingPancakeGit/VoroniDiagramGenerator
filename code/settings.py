@@ -1,0 +1,9 @@
+import pygame
+
+
+# setup
+pygame.init()
+WINDOW_WIDTH, WINDOW_HEIGHT = 1260, 840
+SEED_RADIUS = 10
+BACKGROUND_COLOUR = '#1e1e1e'
+SEED_COLOUR = '#5EB3CF'
